@@ -1,6 +1,6 @@
 # cmos_inverter
-## REG NUM :25013883
-## NAME :V.Sakthi Narayanan
+## REG NUM :25015534
+## NAME :Surjini.R
 ## EXPERIMENT 2.a Design CMOS inverter and transient and OP analysis
 
 ## Aim: To Design CMOS inverter and transient and OP analysis.
