@@ -1,5 +1,5 @@
 # cmos_inverter
-## REG NUM :
+## REG NUM :20155
 ## NAME :
 ## EXPERIMENT 2.a Design CMOS inverter and transient and OP analysis
 
